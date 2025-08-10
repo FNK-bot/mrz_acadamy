@@ -1,5 +1,6 @@
 
 import React from 'react';
+import TutorImage from '../assets/Tutor.jpg';
 
 const Instructor: React.FC = () => {
     return (
@@ -10,7 +11,7 @@ const Instructor: React.FC = () => {
                         <div className="relative w-64 h-64 mx-auto lg:mx-0">
                            <div className="absolute inset-0 bg-white rounded-full transition-all duration-500 transform hover:scale-105"></div>
                            <img 
-                                src="https://picsum.photos/seed/mrz-instructor/256/256" 
+                                src={TutorImage} 
                                 alt="mrz, the instructor"
                                 className="relative w-full h-full object-cover rounded-full border-4 border-black"
                             />
