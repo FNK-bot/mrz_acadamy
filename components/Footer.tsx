@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
           </p>
           <div className="flex gap-6">
             <a href="#" aria-label="Twitter" className="text-gray-400 hover:text-white transition-colors"><TwitterIcon /></a>
-            <a href="#" aria-label="YouTube" className="text-gray-400 hover:text-white transition-colors"><YouTubeIcon /></a>
+            <a href="https://mrz-acadamy.vercel.app/" aria-label="YouTube" className="text-gray-400 hover:text-white transition-colors"><YouTubeIcon /></a>
             <a href="#" aria-label="Twitch" className="text-gray-400 hover:text-white transition-colors"><TwitchIcon /></a>
           </div>
         </div>
