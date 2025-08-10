@@ -23,7 +23,7 @@ const Footer: React.FC = () => {
               <TwitterIcon />
             </a>
             <a
-              href="https://mrz-acadamy.vercel.app/"
+              href="https://www.youtube.com/@mrzthoppi"
               aria-label="YouTube"
               className="text-gray-400 hover:text-white transition-colors"
             >
